@@ -1,0 +1,12 @@
+C:\Users\trupti\Source\Repos\BookStore\bin\Debug\BookStore.exe
+C:\Users\trupti\Source\Repos\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.View.CustomerHome.resources
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.View.Index.resources
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.View.Register.resources
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.exe
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.pdb
+C:\Users\trupti\Source\Repos\BookStore\bin\Debug\BookStore.pdb
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\trupti\Source\Repos\BookStore\obj\Debug\BookStore.View.AdminHome.resources
